@@ -1,0 +1,8 @@
+Jan 04, 2022 1:28:26 PM order.OrderService addOrder
+INFO: Saving order: [product.Product - name: jacket, id: 10] for user 10
+Jan 04, 2022 1:28:27 PM order.OrderService getAllOrdersByUser
+WARNING: Cannot get orders for a non existing user, username: null id: 0
+Jan 04, 2022 1:28:27 PM order.OrderService getAllOrders
+INFO: Getting all the orders
+Jan 04, 2022 1:28:27 PM order.OrderService deleteOrder
+WARNING: Order was already cancelled!, User: 1 Order: 0
